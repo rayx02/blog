@@ -19,7 +19,7 @@ role: Computer Sciences Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: RUDN University
-    url:https://eng.rudn.ru/
+    url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the field of technology , programming and also mathematics.
@@ -69,11 +69,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '1032224515@pfur.ru'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+- Max Sylvain is a 1st year student at RUDN University . He's studying Computer Sciences and Mathematics. His passion is rather oriented towards everything related to programming: artificial intelligence, machine learning and also big data. He is rather a novice in this great computer and technological world but thanks to his dedication, his intellectual curiosity, he is advancing day by day towards the destination of success.
+
 {style="text-align: justify;"}
