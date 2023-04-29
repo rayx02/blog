@@ -54,13 +54,33 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=hLt5w5gAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
     link: https://github.com/rayx02
+  - icon : youtube
+    icon_pack : fab
+    link : https://www.youtube.com/channel/UCM27pYMb-V8KVD0X9KD5uYA
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/max-sylvain-61a740274
+  - icon : mendeley
+    icon_pack: fab
+    link : https://www.mendeley.com/search
+  - icon : researchgate
+    icon_pack : fab
+    link : https://www.researchgate.net/profile/Maks-Gregor-Fils-Silven 
+  - icon : orcid
+    icon_pack : fab
+    link : https://orcid.org/0009-0007-0932-3665
+  - icon : archive
+    icon_pack : fas
+    label : arXiv
+    link : https://arxiv.org/user/
+  - icon : book
+    icon_pack : fas
+    label : eLibrary
+    link : https://www.elibrary.ru/defaultx.asp 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

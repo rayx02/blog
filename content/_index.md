@@ -46,16 +46,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Machine learning
+          description: 70%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Cybersecurity
+          description: 70%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: App Developer
+          description: 50%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -70,19 +70,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Student
+          company: RUDN
+          company_url: 'https://eng.rudn.ru/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Moscow
+          date_start: '2022-09-01'
+          date_end: '2026-06-30'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Matheamtics
+              * IT Security
+              * IA (Machine learning)
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -106,13 +106,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://www.sololearn.com/certificates/CT-UMUVBRFF
+          date_end: '2022-12-31'
+          date_start: '2022-09-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Sololearn
+          organization_url: https://www.sololearn.com/
+          title: Introduction to C++
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
